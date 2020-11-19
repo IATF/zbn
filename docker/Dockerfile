@@ -1,7 +1,7 @@
 FROM daocloud.io/library/centos:centos8
 LABEL MAINTAINER=z-3zh
 RUN yum -y update
-RUN yum install -y python38-devel mysql-devel gcc gcc-c++ automake autoconf libtool openssl-devel bzip2-devel libffi-devel git wget make python38.x86_64
+RUN yum install -y nmap python38-devel mysql-devel gcc gcc-c++ automake autoconf libtool openssl-devel bzip2-devel libffi-devel git wget make python38.x86_64
 WORKDIR /root
 RUN git clone https://github.com/zbnio/zbn.git
 WORKDIR /root/zbn
