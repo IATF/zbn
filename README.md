@@ -41,4 +41,5 @@
 
 > 加作者微信进群，请备注 **SOAR**、**ZBN**、**织布鸟**  
 
-<img src="./images/4.jpg" width="400">
+![](./images/4.jpg)
+
