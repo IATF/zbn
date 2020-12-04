@@ -35,7 +35,7 @@
 
 ### E-Mail
 
-- lauixData@gmail.com
+- zbn_soar@hotmail.com
 
 ### 微信
 
